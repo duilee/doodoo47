@@ -8,8 +8,9 @@ With descriptions as follow.
 ## About myself
 
 Graduated from UC Berkeley in May 2019 as Applied Mathematics Major with concentration in Fianance/Data Science.  
+Currently, working as a Business Strategist seeking to implement computational aspects into my daily work.   
   
-Currently interested in computational algorithms, optimization, predictive analysis including machine learning, deep learning and data management.
+Interested in computational algorithms, optimization, predictive analysis including machine learning, deep learning and data management.
 Always open for discussions and ideas.
 
 For contact,
