@@ -1,11 +1,11 @@
-# Welcome
+# :palm_tree: Welcome
 
 This repository comprises of the my works in and out of school.  
 With descriptions as follow.
 
 -----
 
-## About myself
+## :round_pushpin: About myself
 
 Graduated from UC Berkeley in May 2019 as Applied Mathematics Major with concentration in Fianance/Data Science.  
 Currently, working as a Business Strategist seeking to implement computational aspects into my daily work.   
@@ -14,27 +14,27 @@ Interested in computational algorithms, optimization, predictive analysis includ
 Always open for discussions and ideas.
 
 For contact,
-- Email : duilee[at]berkeley[dot]edu
+- Email :email: : duilee[at]berkeley[dot]edu
 
 -----
 
-## Repository Descriptions
+## :bookmark_tabs: Repository Descriptions
 
 ### :mortar_board: Coursework
 
-- [CS 88](./Courseworks/CS88_Computational_Structures)
-- [STAT 133](./Courseworks/Stat133_Statistical_Data_Computation)
+- [Programming & Computational Structures (CS88)](./Courseworks/CS88_Computational_Structures)
+- [Statistical Data Computation (STAT133)](./Courseworks/Stat133_Statistical_Data_Computation)
 - [Prob 140]
-- Other courseworks also includes:
-    + Real Analysis (textbook: )
-    + Complex Analysis
-    + Numerical Analysis
-    + Linear Algebra
-    + Methods for Mathematical Optimization
-    + 
-### Webscraping
+- Other courseworks also includes, but not confined to:
+    + Real Analysis (Textbook: Principles of Mathematical Analysis by Rudin)
+    + Complex Analysis (Textbook: Complex Variable and Applications by Brown & Churchill)
+    + Numerical Analysis (Textbook: Numerical Analysis by Burden & Fares)
+    + Linear Algebra (Textbook: Linear Algebra by Friedberg & Insel & Spence)
+    + Methods for Mathematical Optimization (Textbook: Methods of Mathematical Economics by Brown & Churchill)
+    
+### :mag_right: Webscraping
 
-### Machine Learning
+### :gift: Machine Learning
 
 
 
