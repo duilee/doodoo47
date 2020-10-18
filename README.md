@@ -36,6 +36,9 @@ For contact,
 
 ### :gift: Machine Learning
 
+### Deep Learning
+
+### Intro to C & Computer System
 
 
 
