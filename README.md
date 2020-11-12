@@ -21,25 +21,32 @@ For contact,
 ## :bookmark_tabs: Repository Descriptions
 
 ### :mortar_board: Coursework
-
+  
 - [Programming & Computational Structures (CS88)](./Courseworks/CS88_Computational_Structures)
 - [Statistical Data Computation (STAT133)](./Courseworks/Stat133_Statistical_Data_Computation)
-- [Prob 140]
+- [Probability for Data Science(Prob 140)](./Courseworks/STAT140_Probability_for_Data_Science)
 - Other courseworks also includes, but not confined to:
     + Real Analysis (Textbook: Principles of Mathematical Analysis by Rudin)
     + Complex Analysis (Textbook: Complex Variable and Applications by Brown & Churchill)
     + Numerical Analysis (Textbook: Numerical Analysis by Burden & Fares)
     + Linear Algebra (Textbook: Linear Algebra by Friedberg & Insel & Spence)
     + Methods for Mathematical Optimization (Textbook: Methods of Mathematical Economics by Brown & Churchill)
-    
-### :mag_right: Webscraping
 
 ### :gift: Machine Learning
-
-### Deep Learning
+  
+- [Machine Learning Guide](./MachineLearning/ML_Guide)
+- [Deep Learning]
 
 ### Intro to C & Computer System
 
+### :mag_right: Webscraping
+  
+- Wepscraping technique using Python.  
+  Utilized library/techniques include:
+    + html, xpath, requests, user_agent, BeautifulSoup, selenium
+  
+- small projects on getting daily news, weather, a sentence for english practice,  
+  and checking followers on my instagram
 
 
 
