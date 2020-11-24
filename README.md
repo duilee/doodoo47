@@ -8,7 +8,6 @@ With descriptions as follow.
 ## :round_pushpin: About myself
 
 Graduated from UC Berkeley in May 2019 as Applied Mathematics Major with concentration in Fianance/Data Science.  
-Currently, working as a Business Strategist seeking to implement computational aspects into my daily work.   
   
 Interested in computational algorithms, optimization, predictive analysis including machine learning, deep learning and data management.
 Always open for discussions and ideas.
@@ -35,18 +34,21 @@ For contact,
 ### :gift: Machine Learning
   
 - [Machine Learning Guide](./MachineLearning/ML_Guide)
-- [Deep Learning]
+  + Machine Learning Perfect Guide by ChulMin Kwon.
+- [Deep Learning](./MachineLearning/DeepLearningAI)
+  + Deep Learning Specialization on Coursera by Andrew Ng. Comprised of 5 courses.
 
-### Intro to C & Computer System
+### :computer: Intro to C & Computer System
+- C Programming/Computer System from basics to security by Hosung Choi. [(Materials Covered)](./ComputerSystem_with_C)
 
 ### :mag_right: Webscraping
   
-- Wepscraping technique using Python.  
+- [Wepscraping technique using Python](./Webscraping/webscraping_basic).  
   Utilized library/techniques include:
     + html, xpath, requests, user_agent, BeautifulSoup, selenium
   
 - small projects on getting daily news, weather, a sentence for english practice,  
-  and checking followers on my instagram
+  and checking followers on my instagram. [(click to see)](./Webscraping/webscraping_project)
 
 
 
