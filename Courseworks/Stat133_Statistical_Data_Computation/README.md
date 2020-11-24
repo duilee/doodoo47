@@ -1,8 +1,6 @@
 ## STAT133 Fall 2018
 
-## Course Description
-
-### Description
+### Course Description
 
 __Stat 133: Concepts in Computing with Data__ is an introductory course to computational 
 data analysis using the statistical programming language __R__ (and other computational tools)
