@@ -8,7 +8,8 @@ With descriptions as follow.
 ## :round_pushpin: About myself
 
 Graduated from UC Berkeley in May 2019 as Applied Mathematics Major with concentration in Fianance/Data Science.  
-  
+Mathematician and Business Startegist looking to be a ML engineer to better society.  
+
 Interested in computational algorithms, optimization, predictive analysis including machine learning, deep learning and data management.
 Always open for discussions and ideas.
 
@@ -43,8 +44,7 @@ For contact,
 
 ### :mag_right: Webscraping
   
-- [Wepscraping technique using Python](./Webscraping/webscraping_basic).  
-  Utilized library/techniques include:
+- [Wepscraping technique using Python](./Webscraping/webscraping_basic). Utilized library/techniques include:
     + html, xpath, requests, user_agent, BeautifulSoup, selenium
   
 - small projects on getting daily news, weather, a sentence for english practice,  
