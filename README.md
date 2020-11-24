@@ -34,18 +34,18 @@ For contact,
 
 ### :gift: Machine Learning
   ###### More Specifics in the repository
-- [Machine Learning Guide](./MachineLearning/ML_Guide)
-  + Machine Learning Perfect Guide by ChulMin Kwon. Includes:   
-    \- _Evaluation, Classification, Regression, Dimension Reduction, Clustering, Text Analysis, and Recommendation_  
-    \- _Kaggle projects_
+- [**Machine Learning Guide**](./MachineLearning/ML_Guide)
+    + Machine Learning Perfect Guide by ChulMin Kwon. Includes:   
+      \- _Evaluation, Classification, Regression, Dimension Reduction, Clustering, Text Analysis, and Recommendation_  
+      \- _Kaggle projects_
 
-- [Deep Learning](./MachineLearning/DeepLearningAI)
-  + Deep Learning Specialization on Coursera by Andrew Ng. Comprised of 5 courses. Includes:
-    \- _Neural Networks and Deep Learning_  
-    \- _Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization_  
-    \- _Structuring Machine Learning Projects_  
-    \- _Convolutional Neural Networks_  
-    \- _Sequence Models_    
+- [**Deep Learning**](./MachineLearning/DeepLearningAI)
+    + Deep Learning Specialization on Coursera by Andrew Ng. Comprised of 5 courses. Includes:  
+      \- _Neural Networks and Deep Learning_  
+      \- _Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization_  
+      \- _Structuring Machine Learning Projects_  
+      \- _Convolutional Neural Networks_  
+      \- _Sequence Models_    
 
 ### :computer: Intro to C & Computer System
   ###### More Specifics in the repository
