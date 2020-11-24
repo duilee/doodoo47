@@ -1,4 +1,5 @@
 ## Computer System and C programming by HoSung Choi
+##### Each Sub-repository is a project folder made in Visual Studio
 
 ### Section 1 _Intro to C Programming_:
   - Visual Studio Intro
