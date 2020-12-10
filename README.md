@@ -47,9 +47,10 @@ For contact,
       \- _Convolutional Neural Networks_  
       \- _Sequence Models_    
 
-### :computer: Intro to C & Computer System
+### :computer: C/C++ Programming & Computer System
   ###### More Specifics in the repository
 - C Programming/Computer System from basics to security by Hosung Choi. [(Materials Covered)](./ComputerSystem_with_C)
+- 'This is C++' by Hosung Choi. [(Materials Covered)](./this_is_cpp)
 
 ### :mag_right: Webscraping
   
