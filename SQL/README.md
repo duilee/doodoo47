@@ -66,3 +66,22 @@
 	> DATE_ADD() // for addition  
 	DATE_SUB() // for subtration  
 	DATE() // get the date only, HOUR, DAY, YEAR, MONTH all available
+	
+### _**Data Manipulation Language**_
+- INSERT
+	> INSERT INTO table_name VALUES (value_list);
+	INSERT INTO table_name (column_list) VALUES (value_list);
+- UPDATE
+	> UPDATE table_name SET column = value;
+	UPDATE table_name SET column = value WHERE cond;
+- DELETE 
+	> DELETE FROM table_name WHERE cond
+
+### _**SubQuery**_
+### _**ERD(Element Relationship Diagram)**_
+### _**Data Type**_
+### _**With Statment**_
+### _**Window Function**_
+### _**REGEXP**_
+### _**MySQL Function**_
+### _**If Statment**_
