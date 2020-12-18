@@ -60,5 +60,7 @@ For contact,
 - small projects on getting daily news, weather, a sentence for english practice,  
   and checking followers on my instagram. [(click to see)](./Webscraping/webscraping_project)
 
+## :page_with_curl: [Research Papers](./research_papers)
+- Collection of self-reviewed research papers 
 
 
