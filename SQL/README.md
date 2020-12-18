@@ -113,7 +113,7 @@ float: decimal(), double(), float()
 ### _**Window Function**_
 - windon functions include SUM, AVG, COUNT, ROW_NUMBER(), RANK(), DENSE_RANK()
 	> Function(column) OVER (PARTITION BY column_name ORDER BY column_name)
-- LEAD(column_name, step, null_value) OVER (ORDER BY column_name) AS 'alias'; // move one up
+- LEAD(column_name, step, null_value) OVER (ORDER BY column_name) AS 'alias'; // move one up  
   LAG() // move one down
 
 ### _**REGEXP**_
