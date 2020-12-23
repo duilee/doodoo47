@@ -93,8 +93,8 @@
 	
 ### _**ERD(Element Relationship Diagram)**_
 - Consists of Entity, Attribute, and Relationship
-	> ![ERD](./ERD.png)
-	> -l-l-  = ONE
+	> ![ERD](./ERD.png =300x300)  
+	> -l-l-  = ONE  
 	o<- = Many
 	
 ### _**Data Type**_
