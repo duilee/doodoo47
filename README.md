@@ -61,7 +61,7 @@ For contact,
 
 ### :pushpin: SQL from A to Z 
 - SQL materials covering Data Query Language, Data Manipulation Language, SubQuery, Window Function, RegExp and more
-- Practice questions from Hackerank and leetcode with questions and solutions.( [materials](./SQL))
+- Practice questions from Hackerank and leetcode with questions and solutions.([Materials](./SQL))
 
 ### :mag_right: Webscraping
   
