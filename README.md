@@ -59,6 +59,10 @@ For contact,
 - C Programming/Computer System from basics to security by Hosung Choi. [(Materials Covered)](./ComputerSystem_with_C)
 - 'This is C++' by Hosung Choi. [(Materials Covered)](./this_is_cpp)
 
+### :factory: Data Structure and Algorithms
+- Intro To Data Structures and Algorithms by Udacity/Google ([Materials Covered]())
+- Algorithm practices covering Data Structure, DFS/BFS, Brute Force, Dynamic Programming, Mathematics with C++ from various sources([Materials Covered](./Algorithms))
+
 ### :pushpin: SQL from A to Z 
 - SQL materials covering Data Query Language, Data Manipulation Language, SubQuery, Window Function, RegExp and more
 - Practice questions from Hackerank and leetcode with questions and solutions.([Materials Covered](./SQL))
