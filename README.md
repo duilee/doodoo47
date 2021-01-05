@@ -59,6 +59,10 @@ For contact,
 - C Programming/Computer System from basics to security by Hosung Choi. [(Materials Covered)](./ComputerSystem_with_C)
 - 'This is C++' by Hosung Choi. [(Materials Covered)](./this_is_cpp)
 
+### :pushpin: SQL from A to Z 
+- SQL materials covering Data Query Language, Data Manipulation Language, SubQuery, Window Function, RegExp and more
+- Practice questions from Hackerank and leetcode with questions and solutions.( [materials](./SQL))
+
 ### :mag_right: Webscraping
   
 - [Wepscraping technique using Python](./Webscraping/webscraping_basic). Utilized library/techniques include:
